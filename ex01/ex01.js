@@ -6,6 +6,8 @@ exports.printCombinations = ()=>{
                 console.log(`${i}${j}${k}`);
             }
         }
-    }    
+    } 
+    
+    return;
 }
 
